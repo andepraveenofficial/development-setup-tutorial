@@ -1,0 +1,2 @@
+### Generate Project Structure
+* Run this command in your folder `tree`
